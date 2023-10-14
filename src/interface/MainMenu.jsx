@@ -306,17 +306,16 @@ export default function MainMenu() {
       <div className="main-menu-about-section">
         <div className="main-menu-about">
           <a href="https://github.com/michaelkolesidis/beachy-beachy-ball">
-            © 2023 Michael Kolesidis.
+            © 2023 RAYXSTUDIOZ.
           </a>
         </div>
         <div className="main-menu-about">
           {" "}
           <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-            Licensed under the GNU AGPL 3.0
-          </a>
+VERSION 1.0          </a>
         </div>
       </div>
-      <a href="https://michaelkolesidis.com" target="_blank">
+      <a href="https://www.rayxstudioz.in" target="_blank">
         <img
           className="author-logo"
           src={MichaelLogo}
