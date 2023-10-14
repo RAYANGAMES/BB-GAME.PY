@@ -244,13 +244,12 @@ export default function Interface() {
             <div className="modal-about-area">
               <div className="modal-about">
                 <a href="https://github.com/michaelkolesidis/beachy-beachy-ball">
-                  © 2023 Michael Kolesidis.
+                  © 2023 RAYXSTUDIOZ.
                 </a>
               </div>
               <div className="modal-about">
                 <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">
-                  Licensed under the GNU AGPL 3.0
-                </a>
+VERSION 1.0                </a>
               </div>
             </div>
           </div>
